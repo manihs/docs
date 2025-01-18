@@ -128,7 +128,7 @@ The `components` folder is used store shared components that can be used in mult
 
 ## Theme configuration
 
-You can configure your theme in the `config/default.js` file located in the root directory of your project.
+You can configure your theme in the `config/default.json` file located in the root directory of your project.
 
 ```json
 {
